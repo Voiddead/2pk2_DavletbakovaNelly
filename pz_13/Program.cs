@@ -35,7 +35,7 @@ namespace pz_13
                 case (int)Estimation.Good:
                     Console.WriteLine("характеристика отметки 4: хорошо");
                     break;
-                case (int)Estimation.Excellent:
+                case (int)Estimation.Excellent:лрллрдрд
                     Console.WriteLine("характеристика отметки 5: отлично");
                     break;
                 default:
